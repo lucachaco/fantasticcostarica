@@ -22,8 +22,6 @@ export default function Home() {
         </div>
 
 
-        <div className="container">
-          <div className="section">
 
             <div className="row">
               <div className="col s12 m4">
@@ -61,9 +59,6 @@ export default function Home() {
               </div>
             </div>
 
-          </div>
-          <br/><br/>
-        </div>
       </main>
   );
 }
